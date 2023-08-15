@@ -2,7 +2,8 @@
 
 This GitHub repo accompanies the paper titled
  [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://arxiv.org/pdf/2210.07448.pdf)
-and the dataset(s) described therein. 
+and the dataset(s) described therein.
+The data descibed in that paper is an out-of-distribution companion dataset for the [RVL-CDIP](https://huggingface.co/datasets/aharley/rvl_cdip) document image classification dataset.
 
 A link to the dataset(s) can be found here: https://tinyurl.com/4he6my23 
 
