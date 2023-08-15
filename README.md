@@ -6,6 +6,8 @@ and the dataset(s) described therein.
 
 A link to the dataset(s) can be found here: https://tinyurl.com/4he6my23 
 
+The RVL-CDIP-N set has been put on Hugging Face's datasets platform by Jordy Van Landeghem [here](https://huggingface.co/datasets/jordyvl/RVL-CDIP-N) (note that these images are JPEG files).
+
 ### Citation
 
 If you wish to cite our paper and/or dataset(s), please use:
